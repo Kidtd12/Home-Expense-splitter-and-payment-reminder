@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App Theme Colors -->
+    <color name="primary_teal">#006D77</color>
+    <color name="accent_gold">#E9C46A</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_red">#F44336</color>
+    <color name="soft_red">#FFCDD2</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#424242</color>
+</resources>

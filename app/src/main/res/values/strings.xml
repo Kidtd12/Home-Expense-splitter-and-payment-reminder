@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Home Expense Splitter &amp; Payment Reminder</string>
+    <string name="app_subtitle">Ethiopia</string>
+    
+    <!-- Navigation -->
+    <string name="nav_members">Members</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="nav_summary">Summary</string>
+    
+    <!-- Members -->
+    <string name="members_title">Household Members</string>
+    <string name="add_member">Add Member</string>
+    <string name="member_name">Member Name</string>
+    <string name="enter_member_name">Enter member name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="no_members">No members added yet</string>
+    <string name="add_first_member">Add your first household member</string>
+    
+    <!-- Expenses -->
+    <string name="expenses_title">Expenses</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="expense_type">Expense Type</string>
+    <string name="expense_amount">Amount (Birr)</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="who_pays_first">Who Pays First?</string>
+    <string name="select_payer">Select Payer</string>
+    <string name="no_expenses">No expenses added yet</string>
+    <string name="rent">Rent</string>
+    <string name="electricity">Electricity</string>
+    <string name="water">Water</string>
+    <string name="food">Food</string>
+    <string name="wifi">WiFi</string>
+    <string name="other">Other</string>
+    
+    <!-- Payment Status -->
+    <string name="payment_status">Payment Status</string>
+    <string name="paid">Paid</string>
+    <string name="not_paid">Not Paid</string>
+    <string name="mark_paid">Mark as Paid</string>
+    <string name="mark_unpaid">Mark as Unpaid</string>
+    <string name="share_per_person">Share per person: %1$s Birr</string>
+    
+    <!-- Summary -->
+    <string name="summary_title">Monthly Summary</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="who_paid">Who Paid</string>
+    <string name="who_owes">Who Owes</string>
+    <string name="owes_message">%1$s owes %2$s Birr to %3$s</string>
+    <string name="all_paid">All payments completed!</string>
+    <string name="start_new_month">Start New Month</string>
+    <string name="reset_confirm">Reset payment status for new month?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <!-- Reminders -->
+    <string name="reminders_title">Payment Reminders</string>
+    <string name="upcoming_payments">Upcoming Payments</string>
+    <string name="no_upcoming">No upcoming payments</string>
+    <string name="payment_due_today">⚠️ %1$s payment due today</string>
+    <string name="payment_due_soon">%1$s payment due on %2$s</string>
+    
+    <!-- Common -->
+    <string name="birr">Birr</string>
+    <string name="error">Error</string>
+    <string name="error_add_member">Please enter a member name</string>
+    <string name="error_add_expense">Please fill all fields</string>
+    <string name="error_no_members">Please add members first</string>
+</resources>

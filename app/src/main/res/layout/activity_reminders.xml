@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_gray"
+    android:padding="16dp"
+    android:fitsSystemWindows="true">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_reminders"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/tv_empty_reminders"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/no_upcoming"
+        android:textSize="16sp"
+        android:textColor="@color/dark_gray"
+        android:gravity="center"
+        android:visibility="gone" />
+
+</LinearLayout>
+
