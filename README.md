@@ -1,6 +1,5 @@
  🏠 Home Expense Splitter & Payment Reminder
 
- 🏠 Home Expense Splitter & Payment Reminder
 
 
 An **offline Android application** designed to help Ethiopian households manage shared expenses fairly, avoid forgotten payments, and reduce financial conflicts.
